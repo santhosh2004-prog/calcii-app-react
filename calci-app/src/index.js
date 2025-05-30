@@ -8,7 +8,6 @@ import Searchbar from './Searchbar';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1>This is calci project</h1>
     <App />
     
     
